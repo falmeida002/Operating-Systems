@@ -1,0 +1,2 @@
+There are numerous functions of an operating system.
+One of an operating systems function is to provide a user interface.  Most of us are familiar with a graphical user interface.  It allows us to use a mouse and to see images on screen.  A command line interface is typically for more advanced users.  
